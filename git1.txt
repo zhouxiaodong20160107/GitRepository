@@ -1,0 +1,13 @@
+1. 安装完成后向服务器注册本机配置
+注册本机账户： git config --global user.name "zxd"
+注册本机email： git config --global user.email "z736262989@qq.com"
+
+2.创建一个GIT版本库
+1)创建：mkdir gitRepository
+2) 进入：cd gitRepository
+3) 显示地址： pwd  
+
+4.清空仓库
+1）git init
+
+5.版本管理系统只能跟踪文本文件的改的，二进制的变化记录不了，二进制变化如视频音频
